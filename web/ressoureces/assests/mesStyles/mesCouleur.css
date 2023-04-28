@@ -1,0 +1,339 @@
+.bleu-fonce {
+    color: #006098;
+}
+.bleu-turquoise {
+    color: #22bbea;
+}
+.bleu-ciel{
+    color: #1bbbef;
+}
+
+.jaune {
+    color: #fbba00;
+}
+
+.orange {
+    color: #ff8800;
+}
+
+.rouge {
+    color: #970000;
+}
+
+.vert {
+    color: #7cb61f;
+}
+.vert-fonce{
+    color: #2CC185;
+}
+
+.gris-moyen-texte {
+    color: #666666;
+}
+
+.gris-fond-bandeau {
+    color: #ececec;
+}
+
+.gris-fond-citation {
+    color: #eeeeee;
+}
+
+.gris-ligne-et-bordure {
+    color: #cdcdcd;
+}
+
+.gris-fond-de-page {
+    color: #e7e7e7;
+}
+
+.gris-fonce-texte {
+    color: #333333;
+}
+.blanc-texte{
+    color: #fff;
+}
+
+.fond-bleu-fonce {
+    background-color: #006098;
+}
+
+.fond-bleu-turquoise {
+    background-color: #22bbea;
+}
+
+.fond-jaune {
+    background-color: #fbba00;
+}
+
+.fond-orange {
+    background-color: #ff8800;
+}
+
+.fond-rouge {
+    background-color: #970000;
+}
+
+.fond-vert {
+    background-color: #7cb61f;
+}
+.fond-vert-fonce{
+    background-color: #2CC185;
+}
+
+.fond-gris-moyen-texte {
+    background-color: #666666;
+}
+
+.fond-gris-fond-bandeau {
+    background-color: #ececec;
+}
+
+.fond-gris-fond-citation {
+    background-color: #eeeeee;
+}
+
+.fond-gris-ligne-et-bordure {
+    background-color: #cdcdcd;
+}
+
+.fond-gris-fond-de-page {
+    /* background-color: #337ab7; */
+    background: linear-gradient(-90deg, #fff, #efefef);
+}
+
+.fond-gris-fonce-texte {
+    background-color: #333333;
+}
+
+.fond-blanc {
+    background-color: white;
+}
+
+.color-2 { background: #729DBF; }
+.color-3 { background: #72BF7B; }
+.color-4 { background: #484860; }
+.color-5 { background: #7772BF; }
+.color-6 { background: #B3BF72; }
+.color-7 { background: #72BFB9; }
+.color-8 { background: #BFA372; }
+.color-9 { background: #6cc1ed; }
+.color-9 { color: rgba(0,0,0,0.6); }
+.color-10 { background: #00cfbe; }
+.color-11 { background: #00a2d3;}
+.bg-primary {
+    background-color: #dc6767;
+    color: #fff;
+}
+.bg-success {
+    background-color: #5cb85c;
+    color: #fff;
+}
+.bg-info {
+    background-color: #5bc0de;
+    color: #fff;
+}
+.bg-warning {
+    background-color: #f0ad4e;
+    color: #fff;
+}
+.bg-danger {
+    background-color: #d9534f;
+    color: #fff;
+}
+.bg-red {
+    background-color: #bf4346;
+    color: #fff;
+}
+.bg-green {
+    background-color: #488c6c;
+    color: #fff;
+}
+.bg-blue {
+    background-color: #0a819c;
+    color: #fff;
+}
+.bg-yellow {
+    background-color: #f2994b;
+    color: #fff;
+}
+.bg-orange {
+    background-color: #e9662c;
+    color: #fff;
+}
+.bg-pink {
+    background-color: #bf3773;
+    color: #fff;
+}
+.bg-violet {
+    background-color: #9351ad;
+    color: #fff;
+}
+.bg-grey {
+    background-color: #4b5d67;
+    color: #fff;
+}
+.bg-dark {
+    background-color: #594857;
+    color: #fff;
+}
+
+
+/*theme banque*/
+.violet-BMOI{
+    color: #501C6F;
+}
+.fond-BMOI{
+    background: #501C6F;
+}
+.couleur-BMOI{
+    color:#F7FCF6;
+}
+.fond-ABM{
+    background: #001F56;
+}
+.couleur-ABM{
+    color: #F7FCF6;
+}
+
+.vert-BOA{
+    color:#07834D;
+}
+.fond-BOA{
+    background: #07834D;
+}
+.couleur-BOA{
+    color:#F7FCF6;
+}
+.rouge-BFV{
+    color: #E7203F;
+}
+.fond-BFV{
+    background: #E7203F;
+}
+.couleur-BFV{
+    color:#F7FCF6;
+}
+.noir-BFV{
+    color: #1E1C1F;
+}
+.fond-noir-BFV{
+    background: #1E1C1F;
+}
+
+.vert-BNI{
+    color: #007887;
+}
+.fond-BNI{
+    background: #007887;
+}
+.couleur-BNI{
+    color:#F7FCF6;
+}
+.rouge-BNI{
+    color: #CF3128;
+}
+.fond-rouge-BNI{
+    background: #CF3128;
+}
+.blanc-smoke{
+    color: #F7FCF6;
+}
+.fond-blanc-smoke{
+    background: #F7FCF6;
+}
+.fond-BFM{
+    background: #006098;
+}
+.couleur-BFM{
+    color:#F7FCF6;
+}
+.fond-BGFI{
+    background: #9FB38E;
+}
+.couleur-BGFI{
+    color:#F7FCF6;
+}
+.fond-BM{
+    background: #501C6F;
+}
+.couleur-BM{
+    color:#F7FCF6;
+}
+.fond-CCP{
+    background: #DC1A22;
+}
+.couleur-CCP{
+    color:#F7FCF6;
+}
+.fond-DGT{
+    background: #0E3872;
+}
+.couleur-DGT{
+    color:#F7FCF6;
+}
+.fond-MICROCRED{
+    background: #E40375;
+}
+.couleur-MICROCRED{
+    color:#F7FCF6;
+}
+.fond-MCB{
+    background: #DC1727;
+}
+.couleur-MCB{
+    color:#F7FCF6;
+}
+.fond-SBM{
+    background: #102D65;
+}
+.couleur-SBM{
+    color:#F7FCF6;
+}
+.fond-SIPEM{
+    background: #007D36;
+}
+.couleur-SIPEM{
+    color:#F7FCF6;
+}
+
+.txt-SIPEM{
+  color: #007D36;  
+}
+.txt-SBM{
+  color: #102D65;  
+}
+.txt-MCB{
+  color: #DC1727;  
+}
+.txt-MICROCRED{
+  color: #E40375;  
+}
+.txt-DGT{
+  color: #0E3872;  
+}
+.txt-CCP{
+  color: #DC1A22;  
+}
+.txt-BM{
+  color: #501C6F;  
+}
+.txt-BGFI{
+  color: #F7FCF6;  
+}
+.txt-BNI{
+  color: #007887;  
+}
+.txt-BFV{
+  color: #E7203F;  
+}
+
+.txt-BOA{
+  color: #07834D;  
+}
+.txt-ABM{
+  color: #001F56;  
+}
+.txt-BMOI{
+  color: #501C6F;  
+}

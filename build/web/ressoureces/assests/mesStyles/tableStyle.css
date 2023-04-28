@@ -1,0 +1,49 @@
+.input-sm{
+    height: 18px;
+}
+table.dataTable.no-footer {
+    border-bottom: 1px solid #eee;
+}
+/*theme table*/
+.table.table-hover-color-BMOI tbody tr:hover td:first-child {
+    border-left: 4px solid #501C6F;
+}
+.table.table-hover-color-ABM tbody tr:hover td:first-child {
+    border-left: 4px solid #001F56;
+}
+.table.table-hover-color-BFV tbody tr:hover td:first-child {
+    border-left: 4px solid #E7203F;
+}
+.table.table-hover-color-BOA tbody tr:hover td:first-child {
+    border-left: 4px solid #07834D;
+}
+.table.table-hover-color-BNI tbody tr:hover td:first-child {
+    border-left: 4px solid #007887;
+}
+.table.table-hover-color-BFM tbody tr:hover td:first-child {
+    border-left: 4px solid #006098;
+}
+.table.table-hover-color-BGFI tbody tr:hover td:first-child {
+    border-left: 4px solid #9FB38E;
+}
+.table.table-hover-color-BM tbody tr:hover td:first-child {
+    border-left: 4px solid #501C6F;
+}
+.table.table-hover-color-CCP tbody tr:hover td:first-child {
+    border-left: 4px solid #DC1A22;
+}
+.table.table-hover-color-DGT tbody tr:hover td:first-child {
+    border-left: 4px solid #0E3872;
+}
+.table.table-hover-color-MICROCRED tbody tr:hover td:first-child {
+    border-left: 4px solid #E40375;
+}
+.table.table-hover-color-MCB tbody tr:hover td:first-child {
+    border-left: 4px solid #DC1727;
+}
+.table.table-hover-color-SBM tbody tr:hover td:first-child {
+    border-left: 4px solid #102D65;
+}
+.table.table-hover-color-SIPEM tbody tr:hover td:first-child {
+    border-left: 4px solid #007D36;
+}

@@ -1,0 +1,17 @@
+.page-loading{
+    min-width: 100%;
+    min-height: 100% !important;
+    height: auto;
+    width: auto;
+    position: fixed;
+    z-index: 9999999;
+    background: rgba(255,255,255,1);
+}
+
+.page-loading img{
+    display: inline-block;
+    min-height: 150px;
+    position: absolute;
+    top: 35%;
+    left: 45%;
+}

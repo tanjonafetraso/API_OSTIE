@@ -1,0 +1,14 @@
+.monHeader{
+    border-radius: 0;
+    height: 80px;
+    margin-bottom: 0;
+}
+.headerImage,.headerTitre{
+    display: inline-block;
+}
+.headerTitre{
+    position: absolute;
+    right: 5%;
+    text-transform: capitalize;
+}
+

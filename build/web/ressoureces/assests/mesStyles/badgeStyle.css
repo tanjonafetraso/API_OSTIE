@@ -1,0 +1,35 @@
+.bagdeSpecial.badge-warning{
+    color: #fff;
+    background-color: #f89406;
+}
+.bagdeSpecial.badge-info{
+    color: #fff;
+    background-color: #3a87ad;
+}
+.bagdeSpecial.badge-success{
+    color: #fff;
+    background-color: #468847;
+}
+.bagdeSpecial.badge-danger{
+    color: #fff;
+    background-color: #b94a48;
+}
+.bagdeSpecial.badge-inverse{
+    color: #fff;
+    background-color: #333;
+}
+.bagdeSpecial{
+    -webkit-border-radius: 9px;
+    -moz-border-radius: 9px;
+    border-radius: 9px;
+    display: inline-block;
+    padding: 2px 9px;
+    font-size: 11.844px;
+    font-weight: bold;
+    line-height: 14px;
+    color: #fff;
+    text-shadow: 0 -1px 0 rgba(0,0,0,0.25);
+    white-space: nowrap;
+    vertical-align: baseline;
+    background-color: #999;
+}
